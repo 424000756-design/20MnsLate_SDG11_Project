@@ -1,4 +1,4 @@
-# 20MnsLate_SDG11_Project
+# 20MnsLate_SDG11_Project (SAFE CITY BUILDING MANAGEMENT)
 Final Project for IT Elective (Aguirre,Vera,Iloseo)
 
   A VB.NET Windows Forms application developed to support United Nations SDG 11: Sustainable Cities and Communities by improving the management and monitoring of building inspection records.
